@@ -1,10 +1,10 @@
 ```javascript
-var s = "JavaScript syntax highlighting";
+var s = 275;
 alert(s);
 ```
  
 ```python
-s = "Python syntax highlighting"
+s = 5
 print s
 ```
  
