@@ -1,3 +1,3 @@
 bullets test
-    * first
-    * second
+   * first
+   * second
