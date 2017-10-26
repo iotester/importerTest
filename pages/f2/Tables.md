@@ -1,5 +1,5 @@
 ---
-nav_order : 10
+nav_order: 10
 ---
 
 Colons can be used to align columns.
