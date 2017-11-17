@@ -10,7 +10,7 @@
 **Type:** `string`, `boolean`, `number`, `null`  
  Used to specify the data that is associated with a particular property in the graph.
  
-  *  **@value21**  
+  *  **@value21xx**  
 **Type:** `string`, `boolean`, `number`, `null`  
  Used to specify the data that is associated with a particular property in the graph.
   
