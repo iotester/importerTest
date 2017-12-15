@@ -17,6 +17,6 @@
   *  **@one more test. 11.12.2017** test 2
  [contact us](mailto:stockapis@adobe.com?subject=[adobe])
  
- [contact us](mailto:Grp-AdobeStockPartnerships@adobe.com?subject=[Adobe I/O])
+ [contact us](mailto:Grp-AdobeStockPartnerships@adobe.com?subject=[Adobe])
  [contact us](mailto:Grp-AdobeStockPartnerships@adobe.com?subject=[Adobe I/O] Stock demo account access)
   
