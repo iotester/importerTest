@@ -18,4 +18,5 @@
  [contact us](mailto:stockapis@adobe.com?subject=[adobe])
  
  [contact us](mailto:Grp-AdobeStockPartnerships@adobe.com?subject=[Adobe I/O])
+ [contact us](mailto:Grp-AdobeStockPartnerships@adobe.com?subject=[Adobe I/O] Stock demo account access)
   
